@@ -1,6 +1,7 @@
+![MERN Stack Developer](https://i.ibb.co/dpK6YpZ/Linkedin-cover-1.jpg)
+
 ### Hi there 👋, I Am Ojit Deb Nath
 #### MERN Stack Developer
-![MERN Stack Developer](https://i.ibb.co/dpK6YpZ/Linkedin-cover-1.jpg)
 
 Hello, I am a MERN stack developer expert and I have experience with the latest technologies.  I know HTML, CSS, Bootstrap, Tailwind, JavaScript, React. Js, Redux, Node.js, Express. Js, MongoDB, Firebase, JWT and Stripe etc.  I like computer technology like web development and coding along with programming.  I am good with programming and I am punctual, I like to finish work on time.
 
