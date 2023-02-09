@@ -5,7 +5,7 @@
 
 Hello, I am a MERN stack developer expert and I have experience with the latest technologies.  I know HTML, CSS, Bootstrap, Tailwind, JavaScript, React. Js, Redux, Node.js, Express. Js, MongoDB, Firebase, JWT and Stripe etc.  I like computer technology like web development and coding along with programming.  I am good with programming and I am punctual, I like to finish work on time.
 
-Skills: REACT/ Redux / JS / HTML / CSS/ Bootstrap/ SCSS/ MUI, Tailwind/ Node. Js/ Express. Js/ MongoDB/ Firebase/ Stripe
+Skills: REACT/ Redux / JS / HTML / CSS/ Bootstrap/ SCSS/ MUI/ Tailwind/ Node. Js/ Express. Js/ MongoDB/ Firebase/ Stripe
 
 - 🔭 I’m currently working on The Change at india 
 - 🌱 I’m currently learning JavaScript 
