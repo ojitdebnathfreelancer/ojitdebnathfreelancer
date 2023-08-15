@@ -1,4 +1,4 @@
-![MERN Stack Developer]([https://i.ibb.co/dpK6YpZ/Linkedin-cover-1.jpg](https://i.ibb.co/w70RvfG/Linkedin-cover-1.jpg))
+![MERN Stack Developer]([[https://i.ibb.co/dpK6YpZ/Linkedin-cover-1.jpg](https://i.ibb.co/w70RvfG/Linkedin-cover-1.jpg)](https://i.ibb.co/w70RvfG/Linkedin-cover-1.jpg))
 
 ### Hi there 👋, I Am Ojit Deb Nath
 #### MERN Stack Developer
