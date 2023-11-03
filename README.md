@@ -7,7 +7,7 @@ Hello, I am a MERN stack developer expert and I have experience with the latest 
 
 Skills: REACT/ Redux / JS / HTML / CSS/ Bootstrap/ SCSS/ MUI/ Tailwind/ Node. Js/ Express. Js/ MongoDB/ Firebase/ Stripe
 
-- 🔭 I’m currently working on The Change at india 
+- 🔭 I’m currently working on the HeyDev 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with getting new job 
